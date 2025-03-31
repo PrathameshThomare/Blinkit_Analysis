@@ -23,10 +23,12 @@ By leveraging **data-driven insights**, this project enables better decision-mak
 - **Power BI** – For interactive data visualization and dashboard creation.  
 - **Microsoft Excel** – For initial data cleaning and preprocessing.   
 
-## 📌 How to Use  
-1. **Load the dataset** into Power BI.  
-2. **Explore visualizations & dashboards** for sales, customer satisfaction, and inventory insights.  
-3. **Analyze trends & patterns** to make informed business decisions.  
+## 🔄 Process of the Project  
+1. **Load the Project** – Access the dataset and necessary resources from the repository.  
+2. **Data Cleaning & Preparation** – Use Query Editor to preprocess and clean the data.  
+3. **Building Visualizations** – Design interactive reports and dashboards in Power BI.  
+4. **Following Documentation** – Adhere to the steps outlined in the Word document available in the Git repository.  
+5. **Analysis & Insights** – Interpret the findings and generate business recommendations.   
 
 ---
 📢 **Let's turn data into powerful business insights!** 🚀
